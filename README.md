@@ -1,1 +1,1 @@
-init 
+AdvanceWebUI for Cardputer ZERO upload files to the cardputer via web ui using Acces point or wifi you can transfer multiple files or download files from the cardputer itself by using your PC or your Phone
